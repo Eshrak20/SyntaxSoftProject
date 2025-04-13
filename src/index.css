@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.nice-button {
+    @apply bg-success text-white font-medium rounded-full mt-5 cursor-pointer transition-all duration-300 ease-in-out;
+    padding: 12px 25px;
+    font-size: 1.25rem; /* Default for larger screens */
+    border: none;
+  }
+  
+  .nice-button:hover {
+    @apply bg-white text-success;
+    transform: translateX(10px);
+  }
+  
+  /* Responsive styling */
+  @media (max-width: 768px) {
+    .nice-button {
+      padding: 10px 20px; /* Adjust padding for smaller screens */
+      font-size: 1rem;    /* Reduce font size */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .nice-button {
+      padding: 8px 16px; /* Further adjust padding for extra small screens */
+      font-size: 0.875rem; /* Smaller font size for compact devices */
+    }
+  }
+  
+
+

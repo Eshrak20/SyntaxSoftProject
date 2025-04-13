@@ -1,0 +1,119 @@
+{
+    "Backend": [
+      {
+        "name": "Node.js",
+        "image": "/images/Tech/nodeJs-ZzuB-U2O.png"
+      },
+      {
+        "name": "Express",
+        "image": "/images/Tech/expressJs-7g0NC7ji.png"
+      },
+      {
+        "name": "Django",
+        "image": "/images/Tech/Django-YiW5sF8Y.svg"
+      },
+      {
+        "name": "Laravel",
+        "image": "/images/Tech/laravel-CugrLnId.png"
+      },
+      {
+        "name": "PHP",
+        "image": "/images/Tech/PHP-NDgRhmsp.svg"
+      },
+      {
+        "name": "SQL",
+        "image": "/images/Tech/sql.jpeg"
+      },
+      {
+        "name": "Plsql",
+        "image": "/images/Tech/plsql.jpeg"
+      },
+      {
+        "name": "Python",
+        "image": "/images/Tech/python-C2ywzids.png"
+      }
+    ],
+    "Frontend": [
+      {
+        "name": "React",
+        "image": "/images/Tech/React JS-CFaXVWLv.svg"
+      },
+      {
+        "name": "Vue.js",
+        "image": "/images/Tech/Vue js-C9v2YCQU.svg"
+      },
+      {
+        "name": "Next JS",
+        "image": "/images/Tech/nextjs-D5GcxoyW.png"
+      },
+      {
+        "name": "Bootstrap",
+        "image": "/images/Tech/Bootstrap-Bv3NKktt.svg"
+      },
+      {
+        "name": "HTML",
+        "image": "/images/Tech/HTML-LtyBLcCt.svg"
+      },
+      {
+        "name": "CSS",
+        "image": "/images/Tech/CSS-CKiB969C.svg"
+      },
+      {
+        "name": "JavaScript",
+        "image": "/images/Tech/Javascript-BapOsVnL.svg"
+      },
+      {
+        "name": "Tailwind",
+        "image": "/images/Tech/Tailwind CSS-7NEO6Nfh.svg"
+      },
+      {
+        "name": "Oracle APEX",
+        "image": "/images/Tech/oracalApex.jpeg"
+      }
+    ],
+    "Databases": [
+      {
+        "name": "MongoDB",
+        "image": "/images/Tech/mongoDB-9b2t3eJQ.png"
+      },
+      {
+        "name": "PostgreSQL",
+        "image": "/images/Tech/postgesql-BwNgJREK.png"
+      },
+      {
+        "name": "MySQL",
+        "image": "/images/Tech/mysql-rXm7oxL1.png"
+      },
+      {
+        "name": "Oracle",
+        "image": "/images/Tech/oracle.jpeg"
+      },
+      {
+        "name": "SQL Server",
+        "image": "/images/Tech/sqlserver.jpeg"
+      }
+    ],
+    "MobileApp": [
+      {
+        "name": "Flutter",
+        "image": "/images/Tech/Flutter-CH_524bf.png"
+      }
+    ],
+    "CMS": [
+      {
+        "name": "WordPress",
+        "image": "/images/Tech/wordPress-BFeGjixE.png"
+      }
+    ],
+    "DevOps": [
+      {
+        "name": "Docker",
+        "image": "/images/Tech/docker-71SzfFFv.png"
+      },
+      {
+        "name": "Kubernetes",
+        "image": "/images/Tech/Kubernetes-CM9wttX4.png"
+      }
+    ]
+  }
+  
