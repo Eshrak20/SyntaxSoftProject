@@ -6,8 +6,8 @@ const ImageDuo = ({ baseUrl }) => {
   const [imagePath2, setimagePath2] = useState("");
 
   const updateimagePath1 = () => {
-    setimagePath1(`${baseUrl}/images/About us /1.jpg`);
-    setimagePath2(`${baseUrl}/images/About us /2.jpg`);
+    setimagePath1(`${baseUrl}/images/About-us /1.jpg`);
+    setimagePath2(`${baseUrl}/images/About-us /2.jpg`);
   };
 
   useEffect(() => {

@@ -32,7 +32,7 @@ const Gallery = () => {
         {images.map((image, index) => (
           <div key={index}>
             <img
-              src={`${baseUrl}/${image}`}
+              src={`${baseUrl}${image}`}
               alt={`Gallery Image ${index + 1}`}
               className="h-[350px] md:h-[450px] 2xl:h-[650px] object-cover cursor-pointer" // Tailwind classes for fixed height and responsiveness
             />

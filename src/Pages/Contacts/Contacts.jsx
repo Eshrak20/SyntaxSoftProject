@@ -17,7 +17,7 @@ const Contacts = () => {
         <DynamicBanner
           title={`Lets \n work Together`}
           description={`Need a software ? Let us know or visit our office.`}
-          imageUrl={`${baseUrl}/images/Contact us/img3.png`}
+          imageUrl={`${baseUrl}/images/Contact-us/img3.png`}
         />
 
         <div className="-my-16">

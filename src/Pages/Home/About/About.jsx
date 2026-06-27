@@ -45,13 +45,13 @@ const About = ({ baseUrl }) => {
           <div className="aspect-[636/748] w-full">
             <img
               className="rounded-[8%] max-w-sm md:max-w-xl h-full object-cover px-3 md:px-0"
-              src={`${baseUrl}/images/About us /0.jpg`}
+              src={`${baseUrl}/images/About-us /0.jpg`}
               alt="about3.jpg"
             />
           </div>
           <img
             className="object-cover rounded-[20%] w-[150px] h-[150px] md:w-[200px] md:h-[240px] absolute -bottom-20 left-10 md:-bottom-10 md:-left-10 border-black  border-r-[10px] border-t-[10px] -mt-10 border-l-[10px] md:border-l-[10px]"
-            src={`${baseUrl}/images/About us /00.jpg`}
+            src={`${baseUrl}/images/About-us /00.jpg`}
             alt="about1.jpg"
           />
         </div>
